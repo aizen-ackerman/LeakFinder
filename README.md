@@ -122,19 +122,6 @@ Navigate to **[http://localhost:8080](http://localhost:8080)** in your browser.
 
 ---
 
-## 🔐 Login
-
-The login page loads the **Clerk sign-in widget** (requires internet). If Clerk is unavailable, a local fallback form is shown automatically.
-
-### Default Local Credentials
-
-| Username | Password |
-|----------|----------|
-| `admin`  | `admin123` |
-
-> The `admin` user is seeded automatically on startup via `UserSeeder.java`.
-
----
 
 ## 📡 API Endpoints
 
